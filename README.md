@@ -1,4 +1,4 @@
-# 251RCOSE34102"
+# 251RCOSE34102
 
 🧠 OS Scheduling Algorithm Simulator
 A lightweight C-language simulator for visualizing and comparing classic CPU Scheduling Algorithms used in Operating Systems.
